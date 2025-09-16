@@ -23,10 +23,10 @@ They delineate the geographical regions under study, providing a framework for s
 #def: an ESRI Shapefile is a simple, nontopological format for storing the geometric location and attribute information of geographic features.
 
 ## Data Tables:
-The main data table is in Stata formata (.dta)
+The main data table is in Stata formata (.dta).
 This dataset includes the target variable, representing the primary outcome or the phenomena of interest, along with corresponding independent variables. 
 These independent variables encompass endogenous, exogenous, and instrumental variables, which play distinct roles in the analysis.
 
 ## Python Analysis:
-The analysis was carried out using python
+The analysis was carried out using python.
 Python libraries such as Pandas, NumPy, Matplotlib, and others were used to replicate the main ideas presented in Nathan Nunn's work.
